@@ -1,6 +1,6 @@
 # SQL queries and Database Development
 # ---------------------------------
-### utilized PostgreSQL to create a database from scratch with relationships, add data and perform queries.
+utilized PostgreSQL to create a database from scratch with relationships, add data and perform queries.
 
 ## /EmployeeSQL contains the assets for this project
 ....employees.sql contains the table schema SQL code
