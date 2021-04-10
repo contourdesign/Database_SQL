@@ -2,12 +2,12 @@
 # ---------------------------------
 ### utilized PostgreSQL to create a database from scratch with relationships, add data and perform queries.
 
-# /EmployeeSQL contains the assets for this project
-## ....employees.sql contains the table schema SQL code
-## ....queries.sql contains the code used to make each query
-## ....employees_ERD.png is a screenshot of the ER diagram of this project
+## /EmployeeSQL contains the assets for this project
+....employees.sql contains the table schema SQL code
+....queries.sql contains the code used to make each query
+....employees_ERD.png is a screenshot of the ER diagram of this project
 
-# /EmployeeSQL/data folder contains the .csv files used in this project to build into the database
+## /EmployeeSQL/data folder contains the .csv files used in this project to build into the database
 
 ## The Following queries were performed:
 
